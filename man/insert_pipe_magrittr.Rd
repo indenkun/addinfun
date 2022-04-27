@@ -2,7 +2,7 @@
 % Please edit documentation in R/insert_pipe.R
 \name{insert_pipe_magrittr}
 \alias{insert_pipe_magrittr}
-\title{Insert Pipe Operation.}
+\title{Insert magrittr Pipe Operation.}
 \usage{
 insert_pipe_magrittr()
 }

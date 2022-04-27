@@ -2,7 +2,7 @@
 % Please edit documentation in R/insert_pipe.R
 \name{insert_pipe_base}
 \alias{insert_pipe_base}
-\title{Insert |>.}
+\title{Insert base Pipe Operation.}
 \usage{
 insert_pipe_base()
 }

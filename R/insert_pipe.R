@@ -1,4 +1,4 @@
-#' Insert Pipe Operation.
+#' Insert magrittr Pipe Operation.
 #'
 #' @description
 #' Call this function as an addin to insert \code{ \%>\% } at the cursor position.
@@ -8,7 +8,7 @@ insert_pipe_magrittr <- function(){
   rstudioapi::insertText(" %>% ")
 }
 
-#' Insert |>.
+#' Insert base Pipe Operation.
 #'
 #' @description
 #' Call this function as an addin to insert \code{ |> } at the cursor position.
