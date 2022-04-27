@@ -24,6 +24,11 @@ install.packages("remotes")
 remotes::install_github("indenkun/addinfun")
 ```
 
+After installation, you may need to restart RStudio.
+
+Then you can access the `{addinfun}` functions from the ‘Addins’ menu in
+RStudio.
+
 ## Example
 
 Once installed, the add-in for inserting pipe operations is registered
