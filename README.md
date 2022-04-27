@@ -33,7 +33,7 @@ Example: For an add-in that inserts a `{magrittr}` pipe operation.
 
 ![](img/insertpipe.gif)
 
-Example: For an add-in that inserts a `{base }` pipe operation.
+Example: For an add-in that inserts a `{base}` pipe operation.
 
 ![](img/insertbpipe.gif)
 
