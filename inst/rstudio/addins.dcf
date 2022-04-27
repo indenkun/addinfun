@@ -1,0 +1,9 @@
+Name: Insert %>%
+Description: Inserts `%>%` at the cursor position.
+Binding: insert_pipe_magrittr
+Interactive: false
+
+Name: Insert |>
+Description: Inserts `|>` at the cursor position.
+Binding: insert_pipe_base
+Interactive: false

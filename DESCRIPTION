@@ -1,0 +1,13 @@
+Package: addinfun
+Type: Package
+Title: Indenkun's Rstudio Addins
+Version: 0.0.0.9000
+Author: indenkun
+Maintainer: indenkun <blog@indenkun.hatenablog.com>
+Description: Collections of RStudio addins for me, but maybe also for you.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rstudioapi
+RoxygenNote: 7.1.2
